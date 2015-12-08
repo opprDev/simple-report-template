@@ -1,4 +1,4 @@
-# CalliTech Project Simple Report Template
+# Simple Report LaTeX Template
 
 This template provides a clean structured format for writing a report based on a developement company report. The structure follows the typical flow of information required project report: the objective of the development, methods, information data, results and discussion. 
 
